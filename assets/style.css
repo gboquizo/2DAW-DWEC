@@ -1,13 +1,33 @@
 .enunciado{
     /* Estilo temporal */
-    background-color: #d8d8d8;
     padding: 1rem;
-    border-radius: 9px;
+    border-radius: 3px;
+    background: #263238;
+    color: #fff;
+    font-size: 1.2rem;
+
+    -webkit-box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
+    box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
 }
 
 .informationBox {
-  border: 3px solid #000;
+  border: 2px solid #000;
   width: 300px;
   min-height: 150px;
   padding: 20px 15px;
+}
+
+.enlace a {
+
+  text-decoration: none;
+  color: #fff;
+  padding: 8px;
+  border-radius: 3px;
+  background: #f50057;
+  font-size: 1.2rem;
+  -webkit-box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
+  box-shadow: -3px 10px 5px -11px rgba(0,0,0,0.75);
+
 }
