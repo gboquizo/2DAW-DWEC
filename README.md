@@ -27,4 +27,6 @@ Cada ejercicio contará con 3 ficheros:
     * ejercicio.html - Contendrá el HTML del ejercicio además de incluir el fichero JS.
     * ejercicio.js - Contendrá el código JS del ejercicio
 
+Se tiene que usar la plantilla que está en la carpeta 'plantilla-ejercicios'
+
 HAY QUE ACTUALIZAR EL index.html CUANDO SE SUBE UN EJERCICIO NUEVO!!!
