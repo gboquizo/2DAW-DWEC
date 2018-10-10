@@ -26,3 +26,5 @@ Cada ejercicio contará con 3 ficheros:
     * index.html - Será un resumen del ejercicio y tendrá el enunciado en una etiqueta <p> con la clase 'enunciado' además de incluir el css.
     * ejercicio.html - Contendrá el HTML del ejercicio además de incluir el fichero JS.
     * ejercicio.js - Contendrá el código JS del ejercicio
+
+HAY QUE ACTUALIZAR EL index.html CUANDO SE SUBE UN EJERCICIO NUEVO!!!
