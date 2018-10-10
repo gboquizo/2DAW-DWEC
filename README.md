@@ -1,6 +1,7 @@
 # 2DAW-DWEC
 
-Repositorio común para la clase de 2º de DAW del IES Gran Capitán.
+Repositorio común para la clase de 2º de DAW del [IES Gran Capitán](https://informatica.iesgrancapitan.org/).
+
 
 La estructura de los ejercicios tiene que ser -> [TEMA]/[EjercicioN]/ejercicio.html
 Por cada ejercicio se creará una rama (branch). Cuando se termine de hacer el ejercicio el pull requests irá a la rama desarrollo.
